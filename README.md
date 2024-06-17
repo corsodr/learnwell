@@ -1,15 +1,15 @@
 # Educational Video Player Showcase
 
 ## Overview 
-My Learnwell web app allows users to add, select, view, and comment on educational videos. 
+The Learnwell web app allows users to add, select, view, and comment on educational videos. 
 
-I decided to support adding videos from YouTube because it's easy to upload videos to, has good APIs, and Khan Academy does the same thing.
+Learnwell supports videos from Youtube because it's easy to upload videos to and has good APIs. This approach is similar to Khan Academy's. 
 
 The navigation bar has an "Add video" button that opens a modal for adding videos. 
 
 The home page displays video previews of all the videos that have been added to Learnwell by the current user. 
 
-The video page displays the video player and comments section for a selected video. It also displays a list of link previews for the rest of the videos. I simulated comments from other users by manually changing the user_id. 
+The video page displays the video player and comments section for a selected video. It also displays a list of link previews for the rest of the videos. (I simulated comments from other users by manually changing the user_id.)
 
 
 ## Try it out 
