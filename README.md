@@ -18,7 +18,7 @@ The video page displays the video player and comments section for a selected vid
 3) npm run dev or npm run build and npm run preview 
 
 ### Notes 
-The user_name is set to corso_rosati4 because I used corso_rosati for testing purposes before realizing I couldn't delete data. I used a proxy to avoid CORS errors (see /vite.config.js)
+The user_name is set to corso_rosati4 because I used corso_rosati for testing purposes before realizing I couldn't delete data. I used a proxy to avoid CORS errors (see [vite.config.js](https://github.com/corsodr/learnwell/blob/main/vite.config.js))
 
 ## Screenshots 
 
