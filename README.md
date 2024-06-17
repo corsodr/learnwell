@@ -3,7 +3,7 @@
 ## Overview 
 My Learnwell web app allows users to add, select, view, and comment on educational videos. 
 
-I decided to support adding videos from Youtube because it's easy to upload videos to, has good APIs, and Khan Academy does the same thing.
+I decided to support adding videos from YouTube because it's easy to upload videos to, has good APIs, and Khan Academy does the same thing.
 
 The navigation bar has an "Add video" button that opens a modal for adding videos. 
 
@@ -15,7 +15,7 @@ The video page displays the video player and comments section for a selected vid
 ## Try it out 
 1) git clone https://github.com/corsodr/learnwell.git
 2) npm install
-3) npm run dev or npm build and npm run preview 
+3) npm run dev or npm run build and npm run preview 
 
 ### Notes 
 The user_name is set to corso_rosati4 because I used corso_rosati for testing purposes before realizing I couldn't delete data. I used a proxy to avoid CORS errors (see /vite.config.js)
