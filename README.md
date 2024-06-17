@@ -3,7 +3,7 @@
 ## Overview 
 The Learnwell web app allows users to add, select, view, and comment on educational videos. 
 
-Learnwell supports videos from Youtube because it's easy to upload videos to and has good APIs. This approach is similar to Khan Academy's. 
+Learnwell supports videos from YouTube because it's easy to upload videos to and has good APIs. This approach is similar to Khan Academy's. 
 
 The navigation bar has an "Add video" button that opens a modal for adding videos. 
 
